@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mini-project-react/static/css/main.855623c5.chunk.css",
+    "main.js": "/mini-project-react/static/js/main.1cf2f70d.chunk.js",
+    "main.js.map": "/mini-project-react/static/js/main.1cf2f70d.chunk.js.map",
+    "runtime-main.js": "/mini-project-react/static/js/runtime-main.dbd3864f.js",
+    "runtime-main.js.map": "/mini-project-react/static/js/runtime-main.dbd3864f.js.map",
+    "static/js/2.26c2d070.chunk.js": "/mini-project-react/static/js/2.26c2d070.chunk.js",
+    "static/js/2.26c2d070.chunk.js.map": "/mini-project-react/static/js/2.26c2d070.chunk.js.map",
+    "index.html": "/mini-project-react/index.html",
+    "precache-manifest.122a22f61069ef22cae4d55ee962eaf3.js": "/mini-project-react/precache-manifest.122a22f61069ef22cae4d55ee962eaf3.js",
+    "service-worker.js": "/mini-project-react/service-worker.js",
+    "static/css/main.855623c5.chunk.css.map": "/mini-project-react/static/css/main.855623c5.chunk.css.map",
+    "static/js/2.26c2d070.chunk.js.LICENSE": "/mini-project-react/static/js/2.26c2d070.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbd3864f.js",
+    "static/js/2.26c2d070.chunk.js",
+    "static/css/main.855623c5.chunk.css",
+    "static/js/main.1cf2f70d.chunk.js"
+  ]
+}
